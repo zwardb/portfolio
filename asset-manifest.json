@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68e93e23.chunk.css",
+    "main.js": "/static/js/main.4695e280.chunk.js",
+    "main.js.map": "/static/js/main.4695e280.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01f5570a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01f5570a.js.map",
+    "static/js/2.2eac7b25.chunk.js": "/static/js/2.2eac7b25.chunk.js",
+    "static/js/2.2eac7b25.chunk.js.map": "/static/js/2.2eac7b25.chunk.js.map",
+    "static/js/3.12b4ad49.chunk.js": "/static/js/3.12b4ad49.chunk.js",
+    "static/js/3.12b4ad49.chunk.js.map": "/static/js/3.12b4ad49.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.68e93e23.chunk.css.map": "/static/css/main.68e93e23.chunk.css.map",
+    "static/js/2.2eac7b25.chunk.js.LICENSE.txt": "/static/js/2.2eac7b25.chunk.js.LICENSE.txt",
+    "static/media/csslogo.fa706493.png": "/static/media/csslogo.fa706493.png",
+    "static/media/html5logo.5804150e.svg": "/static/media/html5logo.5804150e.svg",
+    "static/media/nodejslogo.adf3246d.svg": "/static/media/nodejslogo.adf3246d.svg",
+    "static/media/psqllogo.52d31cc1.png": "/static/media/psqllogo.52d31cc1.png",
+    "static/media/reactlogo.05e48353.png": "/static/media/reactlogo.05e48353.png",
+    "static/media/reduxlogo.1b4bb5fc.png": "/static/media/reduxlogo.1b4bb5fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f5570a.js",
+    "static/js/2.2eac7b25.chunk.js",
+    "static/css/main.68e93e23.chunk.css",
+    "static/js/main.4695e280.chunk.js"
+  ]
+}
